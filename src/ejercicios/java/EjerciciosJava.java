@@ -313,25 +313,72 @@ public class EjerciciosJava {
         // System.out.println("--------------------");
         
         //--------------------Ejercicio 2 (4.5)--------------------\\
-        System.out.println("Ejercicio 2");
+        // System.out.println("Ejercicio 2");
         
-        Scanner teclado = new Scanner(System.in);
+        // Scanner teclado = new Scanner(System.in);
         
-        System.out.println("Dime una hora en punto: ");
-        int hora = teclado.nextInt();
+        // System.out.println("Dime una hora en punto: ");
+        // int hora = teclado.nextInt();
         
-        if ((hora < 0) || (hora >23)) {
-            System.out.println("Introduce una hora valida");
-        }
+        // if ((hora < 0) || (hora >23)) {
+        //     System.out.println("Introduce una hora valida");
+        // }
         
-        if ((hora > 0) && (hora < 13)) {
-            System.out.println("Buenos Dias");
-        }
+        // if ((hora > 5) && (hora < 13)) {
+        //     System.out.println("Buenos Dias");
+        // }
         
-        if ((hora > 12) && (hora < 24)) {
-            System.out.println("Buenas Tardes");
-        }
+        // if ((hora > 12) && (hora < 21)) {
+        //     System.out.println("Buenas Tardes");
+        // }
         
+        // if ((hora > 20) || (hora < 6)) {
+        //     System.out.println("Buenas Noches");
+        // }
+        
+        // System.out.println("--------------------");
+        
+        //--------------------Ejercicio 3 (4.5)--------------------\\
+        //  System.out.println("Ejercicio 3");
+         
+        // Scanner teclado = new Scanner(System.in);
+
+        // System.out.print("Introduce el dia de la semana (1 = lunes ... 7 = domingo): ");
+        // int dia = teclado.nextInt();
+
+        // if ((dia < 1) || (dia > 7)) {
+        //     System.out.println("Ese dia no existe");
+        // }
+        
+        // if (dia == 1) {
+        //     System.out.println("Lunes");
+        // }
+        
+        // if (dia == 2) {
+        //     System.out.println("Martes");
+        // }
+        
+        // if (dia == 3) {
+        //     System.out.println("Miercoles");
+        // }
+        
+        // if (dia == 4) {
+        //     System.out.println("Jueves");
+        // }
+        
+        // if (dia == 5) {
+        //     System.out.println("Viernes");
+        // }
+        
+        // if (dia == 6) {
+        //     System.out.println("Sabado");
+        // }
+        
+        // if (dia == 7) {
+        //     System.out.println("Domingo");
+        // }
+        
+        // System.out.println("--------------------");
         }
     }
     
