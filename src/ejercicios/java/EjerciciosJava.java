@@ -5,6 +5,7 @@
 package ejercicios.java;
 
 import java.util.Scanner;
+import jdk.jshell.Diag;
 
 /**
  *
@@ -378,6 +379,34 @@ public class EjerciciosJava {
         //     System.out.println("Domingo");
         // }
         
+        // System.out.println("--------------------");
+        
+        //--------------------Ejercicio 5 (4.5)--------------------\\
+        // System.out.println("Ejercicio 4");
+
+        // Scanner salario = new Scanner(System.in);
+
+        // System.out.println("Introduce las horas trabajadas en la semana:");
+
+        // double horas = salario.nextDouble();
+
+        // if (horas < 1) {
+        //     System.out.println("No has trabajado ninguna hora");
+        // } 
+        
+        // if ((horas > 0) && (horas <= 40)) {
+        //     int paga = 12;
+        //     double semana = paga * horas;
+        //     System.out.println("Tu salario semanal es de: " + semana + "euros");
+        // }
+        
+        // if (horas > 40) {
+        //     int paga = 12;
+        //     int pagaExtra = 16;
+        //     double semana = 40 * paga + (horas - 40) *16;
+        //     System.out.println("Tu salario semanal es de: " + semana + "euros");
+        // }
+
         // System.out.println("--------------------");
         }
     }
